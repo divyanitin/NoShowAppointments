@@ -10,9 +10,8 @@ This project was completed as part of Udacity's Data Analyst Nanodegree certific
 
 ## Questions investigated:
 
-What characteristics leads to more no show appointments?
+-- What characteristics leads to more no show appointments?
+-- Whether the provisions provided by the scheduling office influence the patients show ups?
 
-Whether the provisions provided by the scheduling office influence the patients show ups?
-
-How has trend been between no shows and show ups?
-What would be the suggested measures to improve the no show rates?
+-- How has trend been between no shows and show ups?
+-- What would be the suggested measures to improve the no show rates?
