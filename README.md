@@ -24,4 +24,4 @@ Finding ways to improve performance is critical in the plight to provide greater
 
 After investigating the dataset, I can conclude that factors such as age, gender, wait time, days of week, and various health reasons have effect on the show rates. One of the most shocking revelation was more people with SMS reminders not showing up for the appointment. But again, as the data provided is for a noticeably short time frame, we can't forecast the same for future. I did not do any analysis with respect to neighborhood as the hospital address was not provided, so there was no point of distance comparison. But logistics can be one of the factors that affect the show rate.
 
-As this was only an exploratory analysis most of the potential factors remain undiscovered.
+As this was only an exploratory analysis most of the potential factors remain undiscovered. I would be doing analysis in future.
